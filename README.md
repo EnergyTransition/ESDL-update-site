@@ -12,7 +12,7 @@ All these plugins are provided as an Eclipse feature.
 
 To use this update site, download the latest Eclipse Modeling version, start it and add this update site by clicking on "Help" and on "Install New Software...". 
 
-Add the following URL:
+Add the following [URL](https://github.com/EnergyTransition/esdl-update-site/raw/master):
 
 ```https://github.com/EnergyTransition/esdl-update-site/raw/master```
 
